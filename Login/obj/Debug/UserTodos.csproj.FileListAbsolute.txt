@@ -1,0 +1,11 @@
+C:\Users\Ulvi\source\repos\Login\Login\obj\Debug\UserTodos.csprojAssemblyReference.cache
+C:\Users\Ulvi\source\repos\Login\Login\obj\Debug\UserTodos.Form1.resources
+C:\Users\Ulvi\source\repos\Login\Login\obj\Debug\UserTodos.Main_Window.resources
+C:\Users\Ulvi\source\repos\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Ulvi\source\repos\Login\Login\obj\Debug\UserTodos.csproj.GenerateResource.cache
+C:\Users\Ulvi\source\repos\Login\Login\obj\Debug\UserTodos.csproj.CoreCompileInputs.cache
+C:\Users\Ulvi\source\repos\Login\Login\obj\Debug\Login.exe
+C:\Users\Ulvi\source\repos\Login\Login\obj\Debug\Login.pdb
+C:\Users\Ulvi\source\repos\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Ulvi\source\repos\Login\Login\bin\Debug\Login.exe
+C:\Users\Ulvi\source\repos\Login\Login\bin\Debug\Login.pdb
